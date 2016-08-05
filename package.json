@@ -1,7 +1,7 @@
 {
-  "name": "webcoach",
-  "version": "0.24.2",
-  "description": "The coach gives you advice on building a better web page",
+  "name": "webcoach-zh",
+  "version": "0.1.0",
+  "description": "The coach gives you advice on building a better web page,this version's advice is in Chinese",
   "keywords": [
     "performance",
     "web",
